@@ -1,1 +1,1 @@
-linuxserver/libreoffice:7.6.7
+wiznote/wizserver
