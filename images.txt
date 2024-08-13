@@ -1,1 +1,1 @@
-wiznote/wizserver
+tenable/nessus:latest-ubuntu
