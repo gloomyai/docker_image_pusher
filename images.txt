@@ -1,1 +1,1 @@
-keking/kkfileview:4.1.0
+aciobanu/scrapy
